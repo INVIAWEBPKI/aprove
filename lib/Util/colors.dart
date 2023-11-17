@@ -1,0 +1,10 @@
+const String black = '#001219';
+const String darkBlue = '#005f73';
+const String blue = '#134074';
+const String lightBlue = '#e9d8a6';
+const String lightYellow = '#ee9b00';
+const String yellow = '#ca6702';
+const String orange = '#bb3e03';
+const String darkOrange = '#ae2012';
+const String red = '#ae2012';
+const String darkPink = '#9b2226';

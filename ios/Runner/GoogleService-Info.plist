@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBy-zKjwuJIjDAbE8rt6XlVSv3R7GG9r7c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>400057161596</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.contador.invia.contadoresInvia</string>
+	<key>PROJECT_ID</key>
+	<string>contadores-5caa9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>contadores-5caa9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:400057161596:ios:17a48b11e31af66becf6f9</string>
+</dict>
+</plist>
